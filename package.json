@@ -1,0 +1,20 @@
+{
+  "name": "agendanow",
+  "version": "1.0.0",
+  "description": "An aplication of agenda made with NodeJS and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaby-oliveira/agendanow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaby-oliveira/agendanow/issues"
+  },
+  "homepage": "https://github.com/joaby-oliveira/agendanow#readme"
+}

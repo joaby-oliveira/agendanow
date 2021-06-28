@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/joaby-oliveira/agendanow/issues"
   },
-  "homepage": "https://github.com/joaby-oliveira/agendanow#readme"
+  "homepage": "https://github.com/joaby-oliveira/agendanow#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

@@ -15,8 +15,8 @@ mongoose.connect("mongodb://localhost:27017/scheduling", {
   useUnifiedTopology: true
 })
 
-app.get('/', (req, res) => {
-  res.send('e ae meu rei')
+app.get('/cadastro', (req, res) => {
+  res.render("create")
 })
 
 app.listen(8080, () => { })
